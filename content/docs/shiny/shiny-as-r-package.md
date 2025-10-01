@@ -2,6 +2,7 @@
 lastmod = 2025-09-17T13:00:00Z
 publishDate = 2025-09-12T10:00:00Z
 title = "把shiny应用作为R包开发"
+tags = []
 +++
 
 ## 创建一个新的R包

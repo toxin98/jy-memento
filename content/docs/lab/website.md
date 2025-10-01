@@ -2,6 +2,7 @@
 lastmod = 2025-09-17T13:00:00Z
 publishDate = 2025-09-12T10:00:00Z
 title = "构建实验室网站，基于docusaurus"
+tags = []
 +++
 
 base on docusaurus v3.2.0  

@@ -2,6 +2,7 @@
 lastmod = 2025-09-17T13:00:00Z
 publishDate = 2025-09-12T10:00:00Z
 title = "CellRanger"
+tags = []
 +++
 
 2024年4月2日，最新版本为8.0.0  

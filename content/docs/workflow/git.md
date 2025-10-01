@@ -2,6 +2,7 @@
 lastmod = 2025-09-17T13:00:00Z
 publishDate = 2025-09-12T10:00:00Z
 title = "git"
+tags = []
 +++
 
 开了vpn, 但git push总是失败443或timeout  

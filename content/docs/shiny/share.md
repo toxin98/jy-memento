@@ -2,6 +2,7 @@
 lastmod = 2025-09-17T13:00:00Z
 publishDate = 2025-09-12T10:00:00Z
 title = "share"
+tags = []
 +++
 
 分享Shiny app，一般有两种途径:

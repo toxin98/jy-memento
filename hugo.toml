@@ -58,4 +58,5 @@ unsafe= true
     min = '0.146.0'
 
 [params]
+  repo = "https://github.com/toxin98/memento"
   logo = true

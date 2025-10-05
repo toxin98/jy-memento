@@ -38,35 +38,35 @@ def check_md_files(root_dir):
 
                 if filename == "_index.md":
                     stats["index_total"] += 1
-                    if first_line == "+++":
-                        if second_line.startswith("title = "):
+                    if first_line == "---":
+                        if second_line.startswith("title: "):
                             stats["index_ok"] += 1
                         else:
                             stats["index_err"] += 1
-                            errors.append(f"[ERROR] {file_path} second line should start with 'title = '")
+                            errors.append(f"[ERROR] {file_path} second line should start with 'title: '")
                     else:
                         stats["index_err"] += 1
-                        errors.append(f"[ERROR] {file_path} first line should be '+++'")
+                        errors.append(f"[ERROR] {file_path} first line should be '---'")
                 else:
                     stats["other_total"] += 1
-                    if first_line == "+++":
-                        if second_line.startswith("lastmod = "):
-                            value = second_line.split("=", 1)[1].strip().strip('"').strip("'")
+                    if first_line == "---":
+                        if second_line.startswith("lastmod: "):
+                            value = second_line.split(":", 1)[1].strip().strip('"').strip("'")
                             if DATE_PATTERN.match(value):
-                                if third_line.startswith("title = "):
+                                if third_line.startswith("title: "):
                                     stats["other_ok"] += 1
                                 else:
                                     stats["other_err"] += 1
-                                    errors.append(f"[ERROR] {file_path} third line should start with 'title = '")
+                                    errors.append(f"[ERROR] {file_path} third line should start with 'title: '")
                             else:
                                 stats["other_err"] += 1
                                 errors.append(f"[ERROR] {file_path} lastmod is invalid: '{value}' (should be YYYY-MM-DD)")
                         else:
                             stats["other_err"] += 1
-                            errors.append(f"[ERROR] {file_path} second line should start with 'lastmod = '")
+                            errors.append(f"[ERROR] {file_path} second line should start with 'lastmod: '")
                     else:
                         stats["other_err"] += 1
-                        errors.append(f"[ERROR] {file_path} first line should be '+++'")
+                        errors.append(f"[ERROR] {file_path} first line should be '---'")
 
     return errors, stats
 

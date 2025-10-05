@@ -10,55 +10,55 @@ title: tidyverse cheatsheet
 
 <ul>
   <li>
-    <a href="https://ggplot2.tidyverse.org">
+    <a href="https://ggplot2.tidyverse.org/">
       <img src="https://www.tidyverse.org/css/images/hex/ggplot2.png" alt="ggplot2-logo" width="60px">
     </a>
     ggplot2
   </li>
   <li>
-    <a href="https://dplyr.tidyverse.org">
+    <a href="https://dplyr.tidyverse.org/">
       <img src="https://www.tidyverse.org/css/images/hex/dplyr.png" alt="dplyr-logo" width="60px">
     </a>
     dplyr
   </li>
   <li>
-    <a href="https://tidyr.tidyverse.org">
+    <a href="https://tidyr.tidyverse.org/">
       <img src="https://www.tidyverse.org/css/images/hex/tidyr.png" alt="tidyr-logo" width="60px">
     </a>
     tidyr
   </li>
   <li>
-    <a href="https://readr.tidyverse.org">
+    <a href="https://readr.tidyverse.org/">
       <img src="https://www.tidyverse.org/css/images/hex/readr.png" alt="readr-logo" width="60px">
     </a>
     readr
   </li>
   <li>
-    <a href="https://purrr.tidyverse.org">
+    <a href="https://purrr.tidyverse.org/">
       <img src="https://www.tidyverse.org/css/images/hex/purrr.png" alt="purrr-logo" width="60px">
     </a>
     purrr
   </li>
   <li>
-    <a href="https://tibble.tidyverse.org">
+    <a href="https://tibble.tidyverse.org/">
       <img src="https://www.tidyverse.org/css/images/hex/tibble.png" alt="tibble-logo" width="60px">
     </a>
     tibble
   </li>
   <li>
-    <a href="https://stringr.tidyverse.org">
+    <a href="https://stringr.tidyverse.org/">
       <img src="https://www.tidyverse.org/css/images/hex/stringr.png" alt="stringr-logo" width="60px">
     </a>
     stringr
   </li>
   <li>
-    <a href="https://forcats.tidyverse.org">
+    <a href="https://forcats.tidyverse.org/">
       <img src="https://www.tidyverse.org/css/images/hex/forcats.png" alt="forcats-logo" width="60px">
     </a>
     forcats
   </li>
   <li>
-    <a href="https://lubridate.tidyverse.org">
+    <a href="https://lubridate.tidyverse.org/">
       <img src="https://www.tidyverse.org/css/images/hex/lubridate.png" alt="lubridate-logo" width="60px">
     </a>
     lubridate

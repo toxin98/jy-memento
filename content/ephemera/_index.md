@@ -1,6 +1,4 @@
 ---
-build:
-  render: always
 cascade:
 - build:
     list: local

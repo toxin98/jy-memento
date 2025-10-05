@@ -1,9 +1,9 @@
-+++
-lastmod = 2025-09-17T13:00:00Z
-publishDate = 2025-09-12T10:00:00Z
-title = "BP-pacFA-protocol"
-tags = []
-+++
+---
+lastmod: 2025-09-17T13:00:00Z
+publishDate: 2025-09-12T10:00:00Z
+title: BP-pacFA-protocol
+tags: []
+---
 
 ref:  
 [Trifunctional Sphinganine: A New Tool to Dissect Sphingolipid Function](https://doi.org/10.1021/acschembio.3c00554)  

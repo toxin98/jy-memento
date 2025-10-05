@@ -1,5 +1,5 @@
-+++
-title = "Home"
-+++
+---
+title: Home
+---
 
 Build it on your own.

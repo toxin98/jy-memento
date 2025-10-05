@@ -1,9 +1,9 @@
-+++
-lastmod = 2025-09-17T13:00:00Z
-publishDate = 2025-09-12T10:00:00Z
-title = "Reagent"
-tags = []
-+++
+---
+lastmod: 2025-09-17T13:00:00Z
+publishDate: 2025-09-12T10:00:00Z
+title: Reagent
+tags: []
+---
 
 | 纯度等级 | 缩写 |
 | -------- | ---- |

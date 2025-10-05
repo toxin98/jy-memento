@@ -1,9 +1,9 @@
-+++
-lastmod = 2025-09-17T13:00:00Z
-publishDate = 2025-09-12T10:00:00Z
-title = "VSCode"
-tags = []
-+++
+---
+lastmod: 2025-09-17T13:00:00Z
+publishDate: 2025-09-12T10:00:00Z
+title: VSCode
+tags: []
+---
 
 Visual Studio Code是
 
@@ -41,7 +41,7 @@ Markdown是
 |###### 六级标题|
 |\*Italic\*|*Italic*|
 |\*\*Bold\*\*|**Bold**|
-|- list1\<br\>- list2
+|* list1\<br\>* list2
 
 
 ### 安装插件
@@ -131,7 +131,7 @@ Markdown是
 -> Download R-4.x.x for Windows
 安装到C盘或D盘都可以
 
-- R包安装位置的管理
+* R包安装位置的管理
 
 你现在可以在R中用`.libPaths()`查看R包安装位置  
 通常是这两个位置`C:/` `<path of R>/lib`  
@@ -195,10 +195,10 @@ pip install -U radian
 均默认安装
 以下内容以安装在`D:\Anaconda3`作为演示
 
-- 如果你的电脑已经安装python
+* 如果你的电脑已经安装python
 不要将Anaconda添加到环境变量中，会发生冲突
 
-- 如果你的电脑没有安装python
+* 如果你的电脑没有安装python
 将Anaconda添加到环境变量中
 `win+R`输入`sysdm.cpl`
 -> 高级

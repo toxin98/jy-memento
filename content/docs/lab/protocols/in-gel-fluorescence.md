@@ -1,9 +1,9 @@
-+++
-lastmod = 2025-09-17T13:00:00Z
-publishDate = 2025-09-12T10:00:00Z
-title = "In-gel Fluorescence"
-tags = []
-+++
+---
+lastmod: 2025-09-17T13:00:00Z
+publishDate: 2025-09-12T10:00:00Z
+title: In-gel Fluorescence
+tags: []
+---
 
 开始: 具有荧光蛋白的总蛋白提取物, 或click反应后的总蛋白提取物  
 

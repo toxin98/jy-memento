@@ -1,9 +1,9 @@
-+++
-lastmod = 2025-09-17T13:00:00Z
-publishDate = 2025-09-12T10:00:00Z
-title = "Liver, Brain, Plasma"
-tags = []
-+++
+---
+lastmod: 2025-09-17T13:00:00Z
+publishDate: 2025-09-12T10:00:00Z
+title: Liver, Brain, Plasma
+tags: []
+---
 
 ![alt text](images/1.png)
 ![alt text](images/2.png)

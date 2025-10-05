@@ -1,3 +1,3 @@
-+++
-title = "Shiny"
-+++
+---
+title: Shiny
+---

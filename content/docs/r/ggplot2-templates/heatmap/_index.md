@@ -1,3 +1,3 @@
-+++
-title = "Heatmap"
-+++
+---
+title: Heatmap
+---

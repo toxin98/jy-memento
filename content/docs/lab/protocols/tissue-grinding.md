@@ -1,9 +1,9 @@
-+++
-lastmod = 2025-09-17T13:00:00Z
-publishDate = 2025-09-12T10:00:00Z
-title = "组织研磨"
-tags = []
-+++
+---
+lastmod: 2025-09-17T13:00:00Z
+publishDate: 2025-09-12T10:00:00Z
+title: 组织研磨
+tags: []
+---
 
 instrument: bertin technologies, Precellys Evolution + Cryolys Evolution  
 vials: 

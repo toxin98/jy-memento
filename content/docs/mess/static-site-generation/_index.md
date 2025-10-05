@@ -1,3 +1,3 @@
-+++
-title = "Static site generation"
-+++
+---
+title: Static site generation
+---

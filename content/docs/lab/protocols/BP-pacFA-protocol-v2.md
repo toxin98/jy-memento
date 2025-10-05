@@ -1,9 +1,9 @@
-+++
-lastmod = 2025-09-17T13:00:00Z
-publishDate = 2025-09-12T10:00:00Z
-title = "BP-pacFA protocol version 2"
-tags = []
-+++
+---
+lastmod: 2025-09-17T13:00:00Z
+publishDate: 2025-09-12T10:00:00Z
+title: BP-pacFA protocol version 2
+tags: []
+---
 
 1. incubate with 10μM BP-pacFA in HBSS for 10min at 37°C
 2. expose to 525nm light for 2min to uncage the probe

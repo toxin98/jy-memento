@@ -1,9 +1,9 @@
-+++
-lastmod = 2025-09-17T13:00:00Z
-publishDate = 2025-09-12T10:00:00Z
-title = "shiny-server"
-tags = []
-+++
+---
+lastmod: 2025-09-17T13:00:00Z
+publishDate: 2025-09-12T10:00:00Z
+title: shiny-server
+tags: []
+---
 
 ## 虚拟机或物理机安装ubuntu 22.04，或云服务器
 
@@ -165,7 +165,7 @@ ssh admin@ip
       ```
       sudo su - shiny -c "R -e \"install.packages('packagename', repos='https://cran.rstudio.com/')\""
       ```
-      - 一些常见包的安装问题  
+      * 一些常见包的安装问题  
       ```
       * installing *source* package ‘curl’ ...
       ** package ‘curl’ successfully unpacked and MD5 sums checked

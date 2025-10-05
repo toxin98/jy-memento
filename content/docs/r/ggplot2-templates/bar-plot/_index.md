@@ -1,3 +1,3 @@
-+++
-title = "Bar plot"
-+++
+---
+title: Bar plot
+---

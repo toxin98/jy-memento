@@ -1,3 +1,3 @@
-+++
-title = "Anki"
-+++
+---
+title: Anki
+---

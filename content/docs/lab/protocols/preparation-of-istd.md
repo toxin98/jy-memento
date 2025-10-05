@@ -1,9 +1,9 @@
-+++
-lastmod = 2025-09-17T13:00:00Z
-publishDate = 2025-09-12T10:00:00Z
-title = "Preparation of istd of lipidomics"
-tags = []
-+++
+---
+lastmod: 2025-09-17T13:00:00Z
+publishDate: 2025-09-12T10:00:00Z
+title: Preparation of istd of lipidomics
+tags: []
+---
 
 注意事项 (适用于每个环节，keep in mind)
 

@@ -1,9 +1,9 @@
-+++
-lastmod = 2025-09-17T13:00:00Z
-publishDate = 2025-09-12T10:00:00Z
-title = "triacylglycerol profiling"
-tags = []
-+++
+---
+lastmod: 2025-09-17T13:00:00Z
+publishDate: 2025-09-12T10:00:00Z
+title: triacylglycerol profiling
+tags: []
+---
 
 [full text](https://doi.org/10.1016/j.aca.2021.339023)
 

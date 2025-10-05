@@ -1,9 +1,9 @@
-+++
-lastmod = 2025-09-17T13:00:00Z
-publishDate = 2025-09-12T10:00:00Z
-title = "shinyapps.io"
-tags = []
-+++
+---
+lastmod: 2025-09-17T13:00:00Z
+publishDate: 2025-09-12T10:00:00Z
+title: shinyapps.io
+tags: []
+---
 
 Posit(原Rstudio)提供的最方便部署shinyapp的方式  
 具有不同的定价计划

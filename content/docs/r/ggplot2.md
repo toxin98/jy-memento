@@ -1,9 +1,9 @@
-+++
-lastmod = 2025-09-17T13:00:00Z
-publishDate = 2025-09-12T10:00:00Z
-title = "ggplot2"
-tags = []
-+++
+---
+lastmod: 2025-09-17T13:00:00Z
+publishDate: 2025-09-12T10:00:00Z
+title: ggplot2
+tags: []
+---
 
 ## 开头定义变量
 
@@ -87,7 +87,7 @@ ggplot2中图片格式设置的逻辑很好理解图片
 
 如果需要的话，就根据它的类型（点/线/方框/文字）来指定参数。
 
-- Step1: 设置图片的背景
+* Step1: 设置图片的背景
 
 一般学术论文中的图片都不需要背景，因此设置背景为透明，但给panel添加黑色边框。
 
@@ -101,7 +101,7 @@ theme(plot.background=element_blank())
 theme(panel.grid=element_blank(),panel.background=element_blank(),panel.border=element_rect(color="black",linewidth=0.5,fill=NA))
 #这里设置线的宽度为0.5mm，按理来说0.5mm对应1.415pt，但不知为何，这里的0.5mm粗细的线条在AI中打开后为1.07pt。
 ```
-- Step2: 设置坐标轴和坐标轴刻度线的颜色及粗细
+* Step2: 设置坐标轴和坐标轴刻度线的颜色及粗细
 
 1. 设置横纵坐标轴为空，因为前面已经指定了panel的边框，这里就不需要再加坐标轴了，否则会出现叠加的线条。当然加上也可以，只不过在AI里就会出现多余的线条。（本强迫症当然是不会允许这种事情发生的）
 ```
@@ -112,7 +112,7 @@ theme(axis.line=element_blank())
 ```
 theme(axis.ticks=element_line(color="black",linewidth=0.5))
 ```
-- Step3: 设置文字的字体、字号和颜色
+* Step3: 设置文字的字体、字号和颜色
 
 ggplot2中默认所有文字的字体都为Arial，因此无需再指定。而综合CNS杂志的要求，我们建议将字号统一设置为7pt。
 
@@ -130,7 +130,7 @@ theme(axis.text=element_text(color="black",size=7))
 ```
 theme(plot.title=element_text(color="black",size=7))
 ```
-- Step4: 对legend进行设置
+* Step4: 对legend进行设置
 
 1. 指定legend的背景设为空
 ```
@@ -145,5 +145,5 @@ theme(legend.text=element_text(color="black",size=7),legend.title=element_text(c
 ```
 plot.format=theme(plot.background=element_blank(),panel.grid=element_blank(),panel.background=element_blank(),panel.border=element_rect(color="black",linewidth=0.5,fill=NA),axis.line=element_blank(),axis.ticks=element_line(color="black",linewidth=0.5),axis.text=element_text(color="black",size=7),axis.title=element_text(color="black",size=7),plot.title=element_text(color="black",size=7),legend.background=element_blank(),legend.key=element_blank(),legend.text=element_text(color="black",size=7),legend.title=element_text(color="black",size=7))
 
-ggplot(data)+geom_boxplot(aes(x=group,y=value,fill=group),outlier.shape=NA)+labs(x="Group",y="Value",title = "Boxplot")+plot.format
+ggplot(data)+geom_boxplot(aes(x=group,y=value,fill=group),outlier.shape=NA)+labs(x="Group",y="Value",title: Boxplot")+plot.format
 ```

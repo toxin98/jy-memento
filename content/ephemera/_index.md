@@ -1,3 +1,3 @@
-+++
-title = "Ephemera"
-+++
+---
+title: Ephemera
+---

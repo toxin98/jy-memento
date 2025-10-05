@@ -1,9 +1,9 @@
-+++
-lastmod = 2025-09-17T13:00:00Z
-publishDate = 2025-09-12T10:00:00Z
-title = "Lipidomic analysis: Yeast, Mammals and Worms"
-tags = []
-+++
+---
+lastmod: 2025-09-17T13:00:00Z
+publishDate: 2025-09-12T10:00:00Z
+title: Lipidomic analysis for Yeast, Mammals and Worms
+tags: []
+---
 
 ## Yeast sample collection and extraction
 

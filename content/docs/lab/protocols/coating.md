@@ -1,9 +1,9 @@
-+++
-lastmod = 2025-09-17T13:00:00Z
-publishDate = 2025-09-12T10:00:00Z
-title = "Coating"
-tags = []
-+++
+---
+lastmod: 2025-09-17T13:00:00Z
+publishDate: 2025-09-12T10:00:00Z
+title: Coating
+tags: []
+---
 
 对于不易贴壁的细胞, 铺板到玻璃底的器皿之前, 要提前对其进行coating处理  
 

@@ -1,9 +1,9 @@
-+++
-lastmod = 2025-09-17T13:00:00Z
-publishDate = 2025-09-12T10:00:00Z
-title = "SVF isolation (original)"
-tags = []
-+++
+---
+lastmod: 2025-09-17T13:00:00Z
+publishDate: 2025-09-12T10:00:00Z
+title: SVF isolation (original)
+tags: []
+---
 
 Isolation and Differentiation of Primary Adipose SVF cells
 

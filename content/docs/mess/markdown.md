@@ -1,9 +1,9 @@
-+++
-lastmod = 2025-09-17T13:00:00Z
-publishDate = 2025-09-12T10:00:00Z
-title = "Markdown"
-tags = []
-+++
+---
+lastmod: 2025-09-17T13:00:00Z
+publishDate: 2025-09-12T10:00:00Z
+title: Markdown
+tags: []
+---
 
 ## Markdown的开始
 
@@ -11,9 +11,9 @@ Markdown 最初是 John Gruber 在 2004 年设计的，这里是他的[官方文
 
 它的设计目标很简单：
 
-- 可读性第一（纯文本就应该好看）
+* 可读性第一（纯文本就应该好看）
 
-- 写作优先，不追求复杂功能
+* 写作优先，不追求复杂功能
 
 ## Markdown的规范问题
 

@@ -2,6 +2,8 @@ baseURL = 'https://jiayong.org/'
 languageCode = 'zh'
 title = 'JY MEMENTO'
 
+timeZone = "Asia/Shanghai"
+
 theme = 'memento'
 
 ignoreFiles = [ "\\.qmd$", "\\.ipynb$", "\\.py$" ]
@@ -61,6 +63,4 @@ unsafe= true
 [params]
   repo = "https://github.com/toxin98/jy-memento"
   logo = true
-  timeZoneWriting = "Etc/UTC"
-  timeZoneRender = "Asia/Shanghai"
 

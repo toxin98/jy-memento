@@ -7,6 +7,8 @@ tags: []
 
 ## 不同细胞系的培养条件
 
+所用胰酶为gibco Trypsin-EDTA (0.25%)
+
 ### Caco2
 
 DMEM, 20%FBS, 1% Pen-Strep  
@@ -35,7 +37,7 @@ DMEM, 10%FBS, 1% Pen-Strep
 
 ### A549
 
-
+DMEM, 10%FBS, 1% Pen-Strep
 
 ### HCT116
 
